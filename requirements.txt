@@ -11,4 +11,4 @@ requests==2.32.2
 soupsieve==2.3.1
 sqlparse==0.5.0
 stripe==2.65.0
-urllib3==1.26.19
+urllib3==2.6.0
